@@ -1,6 +1,6 @@
 {
   "name": "winston-azure-application-insights",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Azure Application Insights transport for Winston",
   "main": "./lib/winston-azure-application-insights.js",
   "engines": {
