@@ -1,6 +1,6 @@
 declare module "winston-azure-application-insights" {
   import type * as appInsights from "applicationinsights";
-  import type * as Transport from "winston-transport";
+  import type Transport from "winston-transport";
   type AzureApplicationInsightsLoggerProps = {
     client?: appInsights.TelemetryClient;
     insights?: typeof appInsights;
